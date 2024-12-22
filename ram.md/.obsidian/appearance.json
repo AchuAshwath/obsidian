@@ -1,6 +1,6 @@
 {
   "cssTheme": "Catppuccin",
-  "interfaceFontFamily": "",
-  "textFontFamily": "Hack",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Hack Nerd Font",
   "monospaceFontFamily": "Hack Nerd Font Mono"
 }

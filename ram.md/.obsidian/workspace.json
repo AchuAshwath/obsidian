@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5fe2773c229f5fb9",
+        "id": "532d72d150db8be6",
         "type": "tabs",
         "children": [
           {
-            "id": "bf36f730c40fdc2b",
+            "id": "7fed9a59277ec20f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - main notes/Introduction to obsidian.md",
+                "file": "2 - source materials/Java/Building a REST API with Spring Boot/Module 1/5. Lab - Test Driven Devleopment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to obsidian"
+              "title": "5. Lab - Test Driven Devleopment"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lazy.nvim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - main notes/Introduction to obsidian.md",
+                "file": "1 - rough notes/rough notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introduction to obsidian"
+              "title": "Backlinks for rough notes"
             }
           },
           {
@@ -146,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 325,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,28 +159,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf36f730c40fdc2b",
+  "active": "7fed9a59277ec20f",
   "lastOpenFiles": [
-    "6 - main notes/Introduction to obsidian.md",
+    "2 - source materials/Java/Building a REST API with Spring Boot/Module 1/5. Lab - Test Driven Devleopment.md",
     "4 - indexes/Indexes.md",
+    "2 - source materials/Java/Building a REST API with Spring Boot/Module 1/4. Test Driven Development.md",
+    "Pasted image 20241222154000.png",
+    "2 - source materials/Java/Building a REST API with Spring Boot/Module 1/1. Spring and Spring Boot.md",
+    "2 - source materials/Java/Building a REST API with Spring Boot/Module 1/3. API Contracts & JSON.md",
+    "2 - source materials/Java/Building a REST API with Spring Boot/Module 1/2. Spring Initializr.md",
+    "3 - tags/Markdown.md",
+    "3 - tags/Spring Boot.md",
+    "3 - tags/Java.md",
+    "3 - tags/Spring.md",
+    "2 - source materials/Java/Building a REST API with Spring Boot/Module 1",
+    "2 - source materials/Java/Building a REST API with Spring Boot/Untitled.md",
+    "1 - rough notes/Installing lazy.nvim.md",
+    "2 - source materials/Java/Building a REST API with Spring Boot",
+    "5 - templates/main note.md",
+    "3 - tags/lazy.nvim.md",
     "1 - rough notes/rough notes.md",
+    "6 - main notes/Introduction to obsidian.md",
+    "6 - main notes/[.md",
+    "3 - tags/nvim.md",
+    "3 - tags/lua.md",
+    "2 - source materials/Lua Crash Course.md",
+    "3 - tags/tags.md",
     "create a link.md",
     "Welcome.md",
-    "5 - templates/main note.md",
     "5 - templates/Untitled 1.md",
     "3 - tags/obsidian.md",
     "6 - main notes",
     "5 - templates",
-    "3 - tags/tags.md",
-    "Untitled.md",
     "4 - indexes",
-    "second brain.md",
-    "2 - source materials/etc",
+    "2 - source materials/Java",
     "2 - source materials/youtube/etc",
     "2 - source materials/youtube",
     "2 - source materials/articles",
-    "3 - tags",
-    "2 - source materials",
-    "1 - rough notes"
+    "3 - tags"
   ]
 }

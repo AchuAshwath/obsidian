@@ -8,6 +8,6 @@ Tags :
 
 
 
-## {{References}}
+## References
 
 
