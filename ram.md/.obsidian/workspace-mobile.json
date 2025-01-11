@@ -91,6 +91,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "2 - source materials/Google Cloud/Digital Leader/1 - cloud computing.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -141,11 +142,22 @@
   },
   "active": "054283875ea721ce",
   "lastOpenFiles": [
+    "1 - rough notes/rough notes.md",
+    "6 - main notes/Untitled.md",
+    "2 - source materials/Google Cloud/Digital Leader/8.4 - Global Infrastructure - Data Residency.md",
+    "1 - rough notes/Ferris Sweep.md",
+    "2 - source materials/Google Cloud/Digital Leader/3 - Shared Responsibility Model for Compute.md",
+    "2 - source materials/Google Cloud/Digital Leader/1 - cloud computing.md",
+    "4 - indexes/Google Cloud.md",
+    "3 - tags/Digital Leader.md",
+    "2 - source materials/Google Cloud/Digital Leader",
+    "2 - source materials/Google Cloud",
+    "4 - indexes/Untitled",
+    "2 - source materials/Java/Building a REST API with Spring Boot/Module 1/5. Lab - Test Driven Devleopment.md",
     "6 - main notes/[.md",
     "2 - source materials/Lua Crash Course.md",
     "1 - rough notes/Installing lazy.nvim.md",
     "3 - tags/lua.md",
-    "1 - rough notes/rough notes.md",
     "poi",
     "1 - Rough notes/Introduction to obsidian.md",
     "6 - main notes/Introduction to obsidian.md",
@@ -160,10 +172,7 @@
     "3 - tags",
     "2 - source materials/youtube",
     "2 - source materials/etc",
-    "2 - source materials/articles",
-    "2 - source materials",
     "1 - rough notes/Introduction to obsidian.md",
-    "1 - rough notes",
     "Welcome.md"
   ]
 }

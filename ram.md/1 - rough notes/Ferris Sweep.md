@@ -1,0 +1,7 @@
+- [ ] [PCB]()
+- [ ] [TRRS Jacks](https://robu.in/product/smartelex-audio-jack-3-5mm-trrs-smd/)
+- [ ] [TRRS Cable](https://robu.in/product/aux3-5mm-audio-extension-cable-2m-male-to-male-grey/?gad_source=1&gclid=Cj0KCQiAyc67BhDSARIsAM95QzuxSnj90QTvDdbNvxKmjLblVZ0CvOKQXdgwyWY_A0Q2NaQUKPCxzd4aAtndEALw_wcB)
+- [ ] [Switches](https://neomacro.in/products/kailh-choc-v1-switches?srsltid=AfmBOopi40J-AY6FCtKdFPUgzyPyYnK4nXUVZB25R4fM2zaLoCF5xM7A)
+- [ ] [Key Caps]()
+- [ ] [Micro Controller](https://robu.in/product/pro-micro-type-c-microcontroller-development-board-for-arduino/?gad_source=1&gclid=Cj0KCQiA7NO7BhDsARIsADg_hIYzHpSsUQNBbHoF5BmpDsgohVdTLs_Q4cHp4_z8NRVGrFeE7Mn6MikaAjkWEALw_wcB)
+- [ ] [USB-C Cable]()
