@@ -4,7 +4,7 @@ Indexes are bigger tags essentially, when certain tags are referenced in abundan
 [[tags]]
 ...
 ## sub_heading2
-[[obsidian]]
+[[Obsidian]]
 ...
 
 

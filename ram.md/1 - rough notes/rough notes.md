@@ -1,7 +1,7 @@
 here are go your rough sketches and temporary ideas.
 picture this as your canvas
 
-tags: [[obsidian]] [[tags]]
+tags: [[Obsidian]] [[tags]]
 
 Zettlekast - second brain
 C - capture

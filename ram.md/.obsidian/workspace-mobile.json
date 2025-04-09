@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dd53ca18a5df9dee",
+        "id": "9ba5dcff12ba00ef",
         "type": "tabs",
         "children": [
           {
-            "id": "054283875ea721ce",
+            "id": "51839a3a11032c1d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "2 - source materials/C/cc4e/CHAPTER 2 - TYPES, OPERATORS and EXPRESSION.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CHAPTER 2 - TYPES, OPERATORS and EXPRESSION"
             }
           }
         ]
@@ -32,7 +36,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -91,14 +96,14 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2 - source materials/Google Cloud/Digital Leader/1 - cloud computing.md",
+            "file": "2 - source materials/C/cc4e/CHAPTER 2 - TYPES, OPERATORS and EXPRESSION.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
-            "showSearch": false,
+            "showSearch": true,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+            "unlinkedCollapsed": false
           },
           "icon": "links-coming-in",
           "title": "Backlinks"
@@ -140,23 +145,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "054283875ea721ce",
+  "active": "51839a3a11032c1d",
   "lastOpenFiles": [
-    "1 - rough notes/rough notes.md",
-    "6 - main notes/Untitled.md",
-    "2 - source materials/Google Cloud/Digital Leader/8.4 - Global Infrastructure - Data Residency.md",
+    "2 - source materials/C/cc4e/CHAPTER 1 - A TUTORIAL INTRODUCTION.md",
+    "2 - source materials/C/cc4e/CHAPTER 0.2 - PYTHON TO C.md",
+    "2 - source materials/C/cc4e/CHAPTER 0.1 - INTRODUCTION.md",
+    "2 - source materials/C/cc4e/CHAPTER 2 - TYPES, OPERATORS and EXPRESSION.md",
     "1 - rough notes/Ferris Sweep.md",
+    "1 - rough notes/ Introduction to C.md",
+    "1 - rough notes/Installing lazy.nvim.md",
     "2 - source materials/Google Cloud/Digital Leader/3 - Shared Responsibility Model for Compute.md",
-    "2 - source materials/Google Cloud/Digital Leader/1 - cloud computing.md",
-    "4 - indexes/Google Cloud.md",
+    "6 - main notes/Untitled.md",
+    "2 - source materials/Google Cloud/Digital Leader/7 - Evolution of Computing.md",
     "3 - tags/Digital Leader.md",
+    "4 - indexes/Google Cloud.md",
+    "6 - main notes/function.md",
+    "6 - main notes/C Programming Materials.md",
+    "1 - rough notes/rough notes.md",
+    "2 - source materials/Google Cloud/Digital Leader/8.4 - Global Infrastructure - Data Residency.md",
+    "2 - source materials/Google Cloud/Digital Leader/1 - cloud computing.md",
     "2 - source materials/Google Cloud/Digital Leader",
     "2 - source materials/Google Cloud",
     "4 - indexes/Untitled",
     "2 - source materials/Java/Building a REST API with Spring Boot/Module 1/5. Lab - Test Driven Devleopment.md",
     "6 - main notes/[.md",
     "2 - source materials/Lua Crash Course.md",
-    "1 - rough notes/Installing lazy.nvim.md",
     "3 - tags/lua.md",
     "poi",
     "1 - Rough notes/Introduction to obsidian.md",
@@ -167,12 +180,8 @@
     "5 - templates",
     "4 - indexes/Indexes.md",
     "4 - indexes",
-    "3 - tags/tags.md",
-    "3 - tags/obsidian.md",
     "3 - tags",
     "2 - source materials/youtube",
-    "2 - source materials/etc",
-    "1 - rough notes/Introduction to obsidian.md",
-    "Welcome.md"
+    "2 - source materials/etc"
   ]
 }

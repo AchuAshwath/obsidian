@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "3bff45a681497141",
+        "id": "150442c8ef1ae089",
         "type": "tabs",
         "children": [
           {
-            "id": "365d7fb5baafd0b6",
+            "id": "de974ce0099da08f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - source materials/Google Cloud/Digital Leader/8.4 - Global Infrastructure - Data Residency.md",
+                "file": "1 - rough notes/JavaScript - Arrays and Loops.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.4 - Global Infrastructure - Data Residency"
+              "title": "JavaScript - Arrays and Loops"
+            }
+          },
+          {
+            "id": "f48341572b1148a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - rough notes/JavaScript - Arrays and Loops.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JavaScript - Arrays and Loops"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -52,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lazy.nvim",
+                "query": "tag:#child",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "59238f3c22d8941a",
@@ -160,47 +175,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "365d7fb5baafd0b6",
+  "active": "f48341572b1148a9",
   "lastOpenFiles": [
-    "2 - source materials/Google Cloud/Digital Leader/6 - Cloud Architecture Terminologies.md",
-    "2 - source materials/Google Cloud/Digital Leader/7 - Evolution of Computing.md",
-    "2 - source materials/Google Cloud/Digital Leader/8.1 - Global Infrastructure - Regions.md",
-    "2 - source materials/Google Cloud/Digital Leader/8.2 - Global Infrastructure - Edge Network.md",
-    "2 - source materials/Google Cloud/Digital Leader/8.3 - Global Infrastructure - Zones.md",
-    "2 - source materials/Google Cloud/Digital Leader/8.4 - Global Infrastructure - Data Residency.md",
-    "2 - source materials/Google Cloud/Digital Leader/~syncthing~8.3 - Global Infrastructure - Zones.md.tmp",
-    "6 - main notes/Untitled.md",
-    "6 - main notes/~syncthing~Untitled.md.tmp",
-    "2 - source materials/Google Cloud/Digital Leader/~syncthing~8.2 - Global Infrastructure - Edge Network.md.tmp",
-    "2 - source materials/Google Cloud/Digital Leader/2 - Google's Shared Responsibility Model.md",
-    "2 - source materials/Google Cloud/Digital Leader/1 - Cloud computing.md",
+    "3 - tags/Heap - Priority Queue.md",
+    "3 - tags/~syncthing~Heap - Priority Queue.md.tmp",
+    "6 - main notes/Heap - Priority Queue.md",
+    "6 - main notes/~syncthing~Heap - Priority Queue.md.tmp",
+    "4 - indexes/~syncthing~LeetCode.md.tmp",
+    "1 - rough notes/DOM in JavaScript.sync-conflict-20250409-171949-NYOMURS.md",
+    "1 - rough notes/~syncthing~DOM in JavaScript.sync-conflict-20250409-171949-NYOMURS.md.tmp",
+    "Pasted image 20250409141621.png",
+    "1 - rough notes/DOM in JavaScript.md",
+    "1 - rough notes/TCP-IP Stack.md",
+    "1 - rough notes/JavaScript - Arrays and Loops.md",
+    "1 - rough notes/Introduction to JavaScript.md",
+    "3 - tags/Function.md",
+    "2 - source materials/C/cc4e/CHAPTER 4 - FUNCTIONS AND PROGRAM STRUCTURE.md",
+    "2 - source materials/C/cc4e/CHAPTER 3 - CONTROL FLOW.md",
+    "1 - rough notes/Ferris Sweep.md",
+    "1 - rough notes/rough notes.md",
+    "1 - rough notes/Pre-requisite for Leetcode.md",
+    "3 - tags/DOM.md",
+    "3 - tags/Internet.md",
+    "3 - tags/IP.md",
+    "3 - tags/TCP.md",
+    "1 - rough notes/Installing lazy.nvim.md",
+    "1 - rough notes/ Introduction to C.md",
+    "1 - rough notes/~syncthing~TCP-IP Stack.md.tmp",
+    "1 - rough notes/TCP.md",
+    "1 - rough notes/~syncthing~TCP.md.tmp",
+    "1 - rough notes/HTTP.md",
+    "1 - rough notes/~syncthing~HTTP.md.tmp",
+    "4 - indexes/LeetCode.md",
+    "3 - tags/Binary Search.md",
+    "3 - tags/Dynamic Programming.md",
+    "3 - tags/Backtracking.md",
+    "3 - tags/Graphs.md",
+    "Heap",
+    "2 - source materials/C/cc4e/~syncthing~CHAPTER 4 - FUNCTIONS AND PROGRAM STRUCTURE.md.tmp",
+    "6 - main notes/~syncthing~C - Operators and Expressions.md.tmp",
+    "Untitled.canvas",
     "2 - source materials/Google Cloud/Digital Leader/Pasted image 20241231165041.png",
     "2 - source materials/Google Cloud/Digital Leader/Pasted image 20241231170628.png",
-    "2 - source materials/Google Cloud/Digital Leader/~syncthing~8 - Global Infrastructure - Regions.md.tmp",
-    "2 - source materials/Google Cloud/Digital Leader/8 - Global Infrastructure - Regions.md",
-    "2 - source materials/Google Cloud/Digital Leader/~syncthing~8 - Global Infrastructure.md.tmp",
-    "2 - source materials/Google Cloud/Digital Leader/8 - Global Infrastructure.md",
-    "2 - source materials/Google Cloud/Digital Leader/~syncthing~7 - Evolution of Computing.md.tmp",
-    "2 - source materials/Google Cloud/Digital Leader/~syncthing~6 - Cloud Architecture Terminologies.md.tmp",
-    "2 - source materials/Google Cloud/Digital Leader/5 - TCO and CAPEX vs OPEX.md",
-    "2 - source materials/Google Cloud/Digital Leader/4 - Deployment Models.md",
-    "2 - source materials/Google Cloud/Digital Leader/3 - Shared Responsibility Model for Compute.md",
-    "6 - main notes/Introduction to obsidian.md",
-    "6 - main notes/().md",
-    "2- source materals/Google Cloud/Digital Leader",
-    "2- source materals/Google Cloud",
-    "2- source materals",
-    "1 - rough notes/Ferris Sweep.md",
-    "6 - main notes/Untitled 1.md",
     "2 - source materials/Google Cloud/Digital Leader/Pasted image 20241231170542.png",
-    "5 - templates/main note.md",
-    "4 - indexes/Java.md",
-    "3 - tags/Shared Responsibility Model.md",
-    "3 - tags/Spring.md",
-    "3 - tags/Spring Boot.md",
-    "2 - source materials/Java/Building a REST API with Spring Boot/Module 1/5. Lab - Test Driven Devleopment.md",
-    "2 - source materials/Java/Building a REST API with Spring Boot/Module 1/4. Test Driven Development.md",
-    "2 - source materials/Java/Building a REST API with Spring Boot/Module 1/3. API Contracts & JSON.md",
     "2 - source materials/Java/Building a REST API with Spring Boot/Module 1/Pasted image 20241222154000.png",
     "Pasted image 20241222154000.png"
   ]

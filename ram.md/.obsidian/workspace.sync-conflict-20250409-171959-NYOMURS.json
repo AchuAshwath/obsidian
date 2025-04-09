@@ -4,21 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "db32b465891ad1f1",
+        "id": "150442c8ef1ae089",
         "type": "tabs",
         "children": [
           {
-            "id": "ceee9db987b9ba8d",
+            "id": "de974ce0099da08f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - source materials/Google Cloud/Digital Leader/3 - Shared Responsibility Model for Compute.md",
+                "file": "1 - rough notes/TCP-IP Stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 - Shared Responsibility Model for Compute"
+              "title": "TCP-IP Stack"
+            }
+          },
+          {
+            "id": "f75117de97ddc6a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - source materials/C/cc4e/CHAPTER 4 - FUNCTIONS AND PROGRAM STRUCTURE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CHAPTER 4 - FUNCTIONS AND PROGRAM STRUCTURE"
+            }
+          },
+          {
+            "id": "f48341572b1148a9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -40,7 +64,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -52,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lazy.nvim",
+                "query": "tag:#child",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - source materials/Google Cloud/Digital Leader/3 - Shared Responsibility Model for Compute.md",
+                "file": "2 - source materials/Google Cloud/Digital Leader/6 - Cloud Architecture Terminologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3 - Shared Responsibility Model for Compute"
+              "title": "Backlinks for 6 - Cloud Architecture Terminologies"
             }
           },
           {
@@ -146,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325
+    "width": 325,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,45 +184,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ceee9db987b9ba8d",
+  "active": "de974ce0099da08f",
   "lastOpenFiles": [
-    "2 - source materials/Google Cloud/Digital Leader/2 - Google's Shared Responsibility Model.md",
-    "2 - source materials/Google Cloud/Digital Leader/3 - Shared Responsibility Model for Compute.md",
-    "3 - tags/Shared Responsibility Model.md",
-    "2 - source materials/Google Cloud/Digital Leader/1 - cloud computing.md",
-    "6 - main notes/Untitled.md",
-    "2 - source materials/Java/Building a REST API with Spring Boot/Module 1/5. Lab - Test Driven Devleopment.md",
-    "4 - indexes/Java.md",
-    "3 - tags/Spring.md",
-    "3 - tags/Spring Boot.md",
-    "2 - source materials/Java/Building a REST API with Spring Boot/Module 1/4. Test Driven Development.md",
-    "2 - source materials/Java/Building a REST API with Spring Boot/Module 1/3. API Contracts & JSON.md",
-    "2 - source materials/Java/Building a REST API with Spring Boot/Module 1/2. Spring Initializr.md",
-    "2 - source materials/Java/Building a REST API with Spring Boot/Module 1/1. Spring and Spring Boot.md",
-    "4 - indexes/Google Cloud.md",
-    "4 - indexes/Indexes.md",
-    "3 - tags/Digital Leader.md",
-    "4 - indexes/~syncthing~Google Cloud.md.tmp",
-    "3 - tags/~syncthing~Digital Leader.md.tmp",
-    "2 - source materials/Google Cloud/Digital Leader/~syncthing~1 - cloud computing.md.tmp",
-    "2 - source materials/Google Cloud/Digital Leader",
-    "2 - source materials/Google Cloud",
-    "2 - source materials/Java/Building a REST API with Spring Boot/Module 1/~syncthing~5. Lab - Test Driven Devleopment.md.tmp",
+    "1 - rough notes/DOM in JavaScript.sync-conflict-20250409-171949-NYOMURS.md",
+    "3 - tags/Obsidian.md",
+    "3 - tags/Lua.md",
+    "3 - tags/Function.md",
+    "1 - rough notes/Introduction to JavaScript.md",
+    "1 - rough notes/JavaScript - Arrays and Loops.md",
+    "Pasted image 20250409141621.png",
+    "3 - tags/Internet.md",
+    "3 - tags/IP.md",
+    "1 - rough notes/DOM in JavaScript.md",
+    "3 - tags/TCP.md",
+    "3 - tags/DOM.md",
+    "1 - rough notes/JavaScript.md",
+    "1 - rough notes/TCP-IP Stack.md",
+    "1 - rough notes/Pre-requisite for Leetcode.md",
+    "2 - source materials/C/cc4e/CHAPTER 4 - FUNCTIONS AND PROGRAM STRUCTURE.md",
+    "1 - rough notes/ Introduction to C.md",
+    "4 - indexes/LeetCode.md",
+    "3 - tags/Binary Search.md",
+    "3 - tags/Dynamic Programming.md",
+    "3 - tags/Backtracking.md",
+    "3 - tags/Graphs.md",
+    "3 - tags/Trees.md",
+    "Heap/Priority Queue.md",
+    "3 - tags/Hashing.md",
+    "Heap",
+    "3 - tags/Sorting.md",
+    "3 - tags/Recursion.md",
+    "2 - source materials/C/cc4e/~syncthing~CHAPTER 4 - FUNCTIONS AND PROGRAM STRUCTURE.md.tmp",
+    "6 - main notes/~syncthing~C - Operators and Expressions.md.tmp",
+    "2 - source materials/C/cc4e/~syncthing~CHAPTER 3 - CONTROL FLOW.md.tmp",
+    "1 - rough notes/~syncthing~ Introduction to C.md.tmp",
+    "6 - main notes/~syncthing~C - Operators.sync-conflict-20250320-115240-NYOMURS.md.tmp",
+    "5 - templates/main note",
+    "~syncthing~Untitled.md.tmp",
+    "Untitled.canvas",
+    "2 - source materials/C/cc4e/~syncthing~CHAPTER 1 - A TUTORIAL INTRODUCTION.md.tmp",
+    "2 - source materials/C/cc4e/CHAPTER 1 - A TUTORIAL INTRODUCTION.html",
+    "2 - source materials/Google Cloud/Digital Leader/Pasted image 20241231165041.png",
+    "2 - source materials/Google Cloud/Digital Leader/Pasted image 20241231170628.png",
+    "2 - source materials/Google Cloud/Digital Leader/Pasted image 20241231170542.png",
     "2 - source materials/Java/Building a REST API with Spring Boot/Module 1/Pasted image 20241222154000.png",
-    "1 - rough notes/rough notes.md",
-    "Pasted image 20241222154000.png",
-    "3 - tags/nvim.md",
-    "3 - tags/lua.md",
-    "3 - tags/lazy.nvim.md",
-    "3 - tags/Markdown.md",
-    "3 - tags/Java.md",
-    "2 - source materials/Lua Crash Course.md",
-    "1 - rough notes/Installing lazy.nvim.md",
-    "2 - source materials/Java/Building a REST API with Spring Boot/Module 1",
-    "2 - source materials/Java/Building a REST API with Spring Boot",
-    "2 - source materials/Java",
-    "2 - source materials/Java/Building a REST API with Spring Boot/Untitled.md",
-    "5 - templates/main note.md",
-    "6 - main notes"
+    "Pasted image 20241222154000.png"
   ]
 }

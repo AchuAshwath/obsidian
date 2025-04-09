@@ -2,7 +2,7 @@
 
 Status : #child 
 
-Tags : [[lua]] [[nvim]]
+Tags : [[Lua]] [[nvim]]
 
 ## Table of Contents
 

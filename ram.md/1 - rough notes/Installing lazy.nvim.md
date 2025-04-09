@@ -1,6 +1,6 @@
 14-12-2024 18:58:47
 
-Tags : [[nvim]] [[lazy.nvim]] [[lua]]
+Tags : [[nvim]] [[lazy.nvim]] [[Lua]]
 
 ```lua
 -- ~/.config/nvim/init.lua

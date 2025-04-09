@@ -2,7 +2,7 @@
 
 Status : #baby #child #adult #quote etc...
 
-Tags : [[tags]] [[obsidian]]
+Tags : [[tags]] [[Obsidian]]
 
 # Introduction to obsidian
 
@@ -35,7 +35,7 @@ Indexes are bigger tags essentially, when certain tags are referenced in abundan
 2. tackle one idea at a time
 ## References
 
-[[obsidian]]
+[[Obsidian]]
 [[Introduction to obsidian]]
 [ [ source materials ] ] - link source materials folder 
 [[rough notes]]
