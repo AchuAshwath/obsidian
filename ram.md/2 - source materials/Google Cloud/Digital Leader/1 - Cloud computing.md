@@ -2,7 +2,7 @@
 
 Status : #baby 
 
-Tags : [[Digital Leader ]]
+Tags : [[Digital Leader ]] [[Cloud Computing]]
 
 # What is cloud computing?
 The practice of using a network of remote servers hosted on the internet to store, manage, and process data, rather than local server or personal computers.
@@ -30,6 +30,7 @@ There are hundreds of cloud services provided by several could providers, but ge
 2. **Storage** - virtual hard drive that can store files.
 3. **Networking** - virtual network that is able to define internet connections or isolate networks.
 4. **Databases** - virtual database for storing reporting data or a database for general purpose web-application.
+
 > *GCP has 60+ cloud services*
 ## Types of Cloud Computing
 
@@ -39,6 +40,11 @@ There are hundreds of cloud services provided by several could providers, but ge
 
 > CSP - Provide IaaS
 > Cloud Platform - Provide PaaS
+
+### [[4 - Deployment Models]]
+
+### [[7 - Evolution of Computing]]
+
 
 ## References
 

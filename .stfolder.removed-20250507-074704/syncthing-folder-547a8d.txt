@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: wfdvr-ngbxq
+created: 2025-05-07T07:40:05+05:30

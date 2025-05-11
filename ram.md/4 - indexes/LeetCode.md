@@ -1,4 +1,5 @@
 [[Arrays]]
+[[Strings]]
 [[Linked List]]
 [[Recursion]]
 [[Sorting]]
