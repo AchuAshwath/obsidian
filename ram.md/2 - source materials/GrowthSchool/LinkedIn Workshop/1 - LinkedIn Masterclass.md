@@ -17,7 +17,26 @@ Linkalyze : https://linkalyze.app/en
 Simplified : https://simplified.com
 Engage AI : https://chromewebstore.google.com/detail/engage-ai-chatgpt-for-soc/nelhhkchoapcbpcgpmmiahfkcdhgecaf?hl=en
 
-![[Pasted image 20250413111938.png]]
+# Everything we will learn today
+1. How to optimise your LinkedIn profile using AI
+2. Custom Note using AI
+3. How to use Sales Navigator to find deep audiences on LinkedIn
+4. Message hack to increase your reply rate
+5. How to make advanced searches without sales navigator
+6. Unlimited profile searches for free
+7. How to know everything about anyone on LinkedIn
+8. How to reach out or connect to people in the right way
+9. Play the game of multi-touch point
+10. The content formula
+11. Find the trending topics
+12. Types of content that does well on LinkedIn
+13. New content ideas using AI
+14. Automate your replies using AI
+15. Use chatGPT to create great content
+16. Generate images using AI for LinkedIn
+17. Create video for LinkedIn or any social platform using AI
+18. Convert long content into smaller sign AI
+19. Speak in 10+ language using AI
 ## how to optimize you Linkedin profile using AI
 
 keyword search - I will be ranking first, to get inbound search 
@@ -120,9 +139,16 @@ you are an expert linkedin copywriter, use the content method...
 
 Endorsement
 
+## Future Paced Skills for Everyone
 
-![[Pasted image 20250413130709.png]]
-
+- Builder first growth mindset
+- Passive Income Sources
+- Strong Communication
+- Be Around the right people
+- Strong personal brand
+- Data driven approach
+- Productivity Machine
+- Be a lifelong Learner
 ### Becoming Data Driven
 
 1. get your excel work done
@@ -146,8 +172,12 @@ Become to lead generation pro to build passive income.
 Inbound - people reaching out to you
 Outbound -  you reaching out to people
 
-![[Pasted image 20250413131558.png]]
+### Inbound lead generation using content loop
 
+1. Create content that makes user drop their details in comment
+2. Comments increase the reach of the post
+3. More people see the post
+4. Loop continues
 
 
 ## Takeaway

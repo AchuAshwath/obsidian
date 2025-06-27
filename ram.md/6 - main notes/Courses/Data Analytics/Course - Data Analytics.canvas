@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"56ac0b6b41406467","type":"text","text":"# Excel\n","x":-270,"y":-716,"width":180,"height":80},
+		{"id":"70c16d4d5c34558c","type":"text","text":"# SQL","x":-180,"y":-523,"width":139,"height":86},
+		{"id":"bdc7130661fb0da3","type":"text","text":"## Projects\n1. Sales Performance Dashboard\n2. Customer Profitability Analysis","x":320,"y":-788,"width":400,"height":128},
+		{"id":"98658b6d43997742","type":"text","text":"# Introdcution to Data Analytics\n","x":-700,"y":-663,"width":300,"height":163},
+		{"id":"10fc3b8c7ee2e7a3","type":"text","text":"# PowerBI \n","x":120,"y":-636,"width":200,"height":81},
+		{"id":"91feb2b648963113","type":"text","text":"1. Project Paper\n2. Assignment test","x":92,"y":-400,"width":257,"height":80}
+	],
+	"edges":[
+		{"id":"bdeda581d1851973","fromNode":"98658b6d43997742","fromSide":"right","toNode":"56ac0b6b41406467","toSide":"left"},
+		{"id":"ea1a4a33ca62cb1f","fromNode":"56ac0b6b41406467","fromSide":"bottom","toNode":"70c16d4d5c34558c","toSide":"top"},
+		{"id":"7f47a20cecfccb22","fromNode":"70c16d4d5c34558c","fromSide":"right","toNode":"10fc3b8c7ee2e7a3","toSide":"left"},
+		{"id":"32a254f6e0e21599","fromNode":"10fc3b8c7ee2e7a3","fromSide":"bottom","toNode":"91feb2b648963113","toSide":"top"},
+		{"id":"bc862436252e9d6c","fromNode":"56ac0b6b41406467","fromSide":"right","toNode":"10fc3b8c7ee2e7a3","toSide":"left"},
+		{"id":"0789abe1ec59b43e","fromNode":"10fc3b8c7ee2e7a3","fromSide":"top","toNode":"bdc7130661fb0da3","toSide":"left"}
+	]
+}

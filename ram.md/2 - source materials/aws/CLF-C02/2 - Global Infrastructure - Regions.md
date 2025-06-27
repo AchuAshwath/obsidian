@@ -40,10 +40,6 @@ For Global services at the time of creation,
 2. A single region must be explicitly chose - S3 Bucket
 3. A group of regions are chose - Cloud Front Distribution
 
-### Availability Zones
-
-
-
 ## References
 
 

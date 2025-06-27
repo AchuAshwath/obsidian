@@ -4,9 +4,9 @@ Status : #child
 
 Tags : [[AWS - Cloud Practitioner]] 
 
-# 00 - - CLF-C02
+# CLF-C02
 
-### [[1 - Cloud computing]]  -  
+## [[1 - Cloud computing]]  
 
 **AWS** is a *Cloud service Provider* and **CSP** is a company which,
 - provides multiple Cloud Services e.g. tens to hundreds of services
@@ -48,6 +48,7 @@ Tags : [[AWS - Cloud Practitioner]]
 - Security, Identity & Compliance
 - Media Services
 
+## [[7 - Evolution of Computing]]
 
 ## References
 

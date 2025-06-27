@@ -6,8 +6,8 @@ Tags :
 
 # Bare and Butter
 
-- [ ] domain
-- [ ] impact community  - legal
+- [x] domain
+- [x] impact community  - legal
 - [ ] shipment tracking 
 - [ ] 
 
