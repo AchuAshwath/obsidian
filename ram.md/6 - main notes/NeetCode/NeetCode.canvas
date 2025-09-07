@@ -10,8 +10,8 @@
 		{"id":"a6e90d22fdbbea3e","type":"file","file":"6 - main notes/LeetCode/Heaps (Priority Queues).md","x":-1960,"y":-1573,"width":360,"height":122},
 		{"id":"b13fcf112a049f3b","type":"file","file":"6 - main notes/NeetCode/Array & Hashing.md","x":-1350,"y":-1307,"width":360,"height":65},
 		{"id":"d3e268e54b6b4493","type":"file","file":"6 - main notes/LeetCode/Linked Lists.md","x":-1970,"y":-1835,"width":380,"height":70},
-		{"id":"19d70979930d5324","x":-1070,"y":-1059,"width":161,"height":60,"type":"file","file":"6 - main notes/NeetCode/Stack.md"},
-		{"id":"77e84e982b71f1d7","x":-1495,"y":-1065,"width":325,"height":73,"type":"file","file":"6 - main notes/NeetCode/Two Pointers.md"}
+		{"id":"19d70979930d5324","type":"file","file":"6 - main notes/NeetCode/Stack.md","x":-1070,"y":-1059,"width":161,"height":60},
+		{"id":"77e84e982b71f1d7","type":"file","file":"6 - main notes/NeetCode/Two Pointers.md","x":-1495,"y":-1065,"width":325,"height":73}
 	],
 	"edges":[
 		{"id":"19756faf9bd1da95","fromNode":"7334b49f12e03045","fromSide":"bottom","toNode":"dea6a89fe7cebed4","toSide":"top"},

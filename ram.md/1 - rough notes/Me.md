@@ -80,7 +80,11 @@ Tags :
 	3. Collaborate and learn from others
 
 
-
+# why should someone hire me
+1. extremely malleable 
+2. I'm not ahead of the crowd but I know where we are headed towards
+3. spent alot of time understanding tech as a user, and can communicate very well and empathise with clients
+4. 
 
 ## References
 

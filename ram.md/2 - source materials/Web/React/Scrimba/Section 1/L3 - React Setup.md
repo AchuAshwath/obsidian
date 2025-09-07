@@ -103,7 +103,8 @@ $ npm -v
 5. create a new vite project  
 
 ```bash
-$ mkdir scrimba-react
+$ mkdir scrimba-reactimport reactLogo from './assets/react.svg'
+import viteLogo from '/vite.svg'
 
 $ cd scrimba-react/
 

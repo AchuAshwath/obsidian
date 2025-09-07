@@ -20,13 +20,7 @@ This challenge reinforces the basic steps of setting up a React application.
 - Grab the DOM node with `id="root"`.
 - Call `root.render()` with your JSX.
 
-&lt;details>
-
-&lt;summary>Click to reveal Solution&lt;/summary>
-
-JavaScript
-
-```
+```javascript
 // index.jsx (or index.js, but .jsx is preferred for JSX content)
 
 // 1. Import createRoot from react-dom/client
@@ -42,13 +36,7 @@ const root = createRoot(container);
 root.render(<h1>This is React</h1>);
 ```
 
-HTML (index.html) Requirement:
-
-Ensure your index.html file has a div with the ID root:
-
-HTML
-
-```
+```HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -62,7 +50,6 @@ HTML
 </html>
 ```
 
-&lt;/details>
 
 ---
 
@@ -79,60 +66,45 @@ When using JSX in your React files, it's a best practice to use the `.jsx` file 
 Dealing with static images (images not coming from a CDN or database) in React projects, especially with build tools like Vite, can be slightly different from traditional HTML.
 
 - **Traditional HTML:** You typically use a relative path directly in the `src` attribute.
-    
-    HTML
-    
-    ```
-    <img src="./react-logo.png" alt="React Logo" />
-    ```
-    
+   
+```html
+<img src="./react-logo.png" alt="React Logo" />
+```
+
 - **Vite Behavior & Potential Issues:**
-    
     - While a relative path _might_ work in a Scrimba environment (due to how it handles file paths), it can often fail in a locally set up Vite project.
     - Vite's build process might change paths or expect specific import mechanisms.
-- **Temporary Workaround (for non-Scrimba environments if relative paths fail):**
-    
+- **Temporary Workaround (if relative paths fail):**
     - Use an **absolute path from your project root**. This often involves a leading `/` (e.g., `/src/assets/react-logo.png`) if your assets are in a specific folder.
-    
-    <!-- end list -->
-    
-    JavaScript
-    
-    ```
+   
+```javascript
     // In React JSX:
     // (This is just a temporary solution for certain Vite setups)
     <img src="/src/assets/react-logo.png" alt="React Logo" />
-    ```
-    
+```
+
 - **Future (Better) Solution:** There's a more "React-accepted" way to handle static images (often involving `import` statements or Vite's asset handling) that will be covered in a later section.
-    
 
 ## Housekeeping Point 3: Rendering Multiple Elements (The "One Parent Element" Rule)
 
 A crucial rule in React rendering: **JSX expressions must have one parent element.**
 
 - You **cannot** render multiple top-level JSX elements side-by-side without wrapping them.
-    
-    JavaScript
-    
-    ```
+   
+```javascript
     // ❌ INCORRECT - Will cause an error
     root.render(
         <img src="./logo.png" alt="Logo" />
         <h1>This is another element</h1>
     );
-    ```
-    
-    - **Reasoning:** This limitation stems from how JSX is transpiled to `React.createElement()`. You can't call two `React.createElement()` functions directly as arguments to `root.render()` in this manner. It's like trying to return two separate values from a function where only one is expected.
+```
+   
+- **Reasoning:** This limitation stems from how JSX is transpiled to `React.createElement()`. You can't call two `React.createElement()` functions directly as arguments to `root.render()` in this manner. It's like trying to return two separate values from a function where only one is expected.
+
 - **Solution: Wrap in a Single Parent Element**
-    
     - To render multiple elements, wrap them within a single parent HTML element (e.g., `div`, `main`, `section`, `article`).
-    
-    <!-- end list -->
-    
-    JavaScript
-    
-    ```
+   
+```javascript
     // ✅ CORRECT - Wrapped in a <div>
     root.render(
         <div>
@@ -140,21 +112,15 @@ A crucial rule in React rendering: **JSX expressions must have one parent elemen
             <h1>This is another element</h1>
         </div>
     );
-    ```
-    
+```
+   
 - **Choosing the Right Parent Element (Semantic HTML):**
-    
     - While `div` works, it's often better to use **semantically correct HTML5 elements** (`<main>`, `<section>`, `<article>`, etc.) if they accurately describe the content.
     - Consult MDN Web Docs for semantic HTML elements to choose the most appropriate container for accessibility and meaning.
 - **Analogy to `React.createElement()`:**
-    
     - Wrapping elements in a parent is conceptually similar to nesting `React.createElement()` calls as children of a parent `React.createElement()` call:
-    
-    <!-- end list -->
-    
-    JavaScript
-    
-    ```
+   
+```javascript
     // Conceptual equivalent to the correct JSX above
     React.createElement(
         "div", // Parent element
@@ -162,8 +128,7 @@ A crucial rule in React rendering: **JSX expressions must have one parent elemen
         React.createElement("img", { src: "./logo.png", alt: "Logo" }), // Child 1
         React.createElement("h1", null, "This is another element") // Child 2
     );
-    ```
-    
+```
 
 ---
 

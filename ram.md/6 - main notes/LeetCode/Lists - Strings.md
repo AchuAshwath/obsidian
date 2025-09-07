@@ -237,7 +237,7 @@ def efficient_way():
 # 1.18 ms ± 8.98 µs per loop (mean ± std. dev. of 7 runs, 1000 loops each)
 ```
 
-- **Slicing is powerful:** Use it for substrings, reversing, and creating copies.
+- **Slicing is alright:** Use it for substrings, reversing, and creating copies.
 - Strings can be iterated over directly: for char in my_string:.
 - When comparing strings, case sensitivity matters unless you explicitly convert to a common case (.lower() or .upper()).
 ## References

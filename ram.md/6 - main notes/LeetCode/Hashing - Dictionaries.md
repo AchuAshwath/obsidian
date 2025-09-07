@@ -310,4 +310,6 @@ print(c1 - c2) # Counter({'a': 2}) (keeps only positive counts)
 
 ## References
 
+[Visualizing Hashmaps](https://youtu.be/WEILxTBDy0Y?si=RDpix5ZKINg22drQ)
+
 

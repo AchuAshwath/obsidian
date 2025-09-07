@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - rough notes/Interview - signatech.md",
+                "file": "1 - rough notes/untitled_69.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interview - signatech"
+              "title": "untitled_69"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "markdown",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1 - rough notes/Bare and Butter.md",
+            "file": "1 - rough notes/untitled_69.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -137,6 +137,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -147,33 +148,34 @@
   },
   "active": "51839a3a11032c1d",
   "lastOpenFiles": [
-    "1 - rough notes/Untitled.md",
+    "3 - tags/Markdown.md",
+    "1 - rough notes/untitled_69.md",
+    "1 - rough notes/More on tech.md",
+    "1 - rough notes/Me.md",
+    "1 - rough notes/Interview - signatech.md",
+    "6 - main notes/NeetCode/NeetCode.canvas",
+    "1 - rough notes/Ideas.md",
+    "1 - rough notes/Bare and Butter.md",
+    "1 - rough notes/rough notes.md",
+    "4 - indexes/LeetCode.md",
+    "3 - tags/Arrays.md",
+    "3 - tags/AWS - Cloud Practitioner.md",
+    "1 - rough notes/Relationship between notes and syllable.md",
+    "6 - main notes/Photo.md",
+    "Untitled",
+    "6 - main notes/Varna/Wedding.md",
+    "6 - main notes/Varna/Quotes for Our Wedding.md",
+    "6 - main notes/NeetCode/Two Pointers/128. Longest Consecutive Sequence - Explanation.md",
+    "6 - main notes/NeetCode/Array & Hashing.md",
+    "6 - main notes/Passwords.md",
     "6 - main notes/NeetCode/Two Pointers/125. Valid Palindrome.md",
     "6 - main notes/NeetCode/Two Pointes.md",
-    "6 - main notes/NeetCode/NeetCode.canvas",
     "2 - source materials/aws/CLF-C02/2.6 -Data Residency.md",
     "1 - rough notes/LeetCode/Prerequisite for Leetcode.md",
     "2 - source materials/aws/CLF-C02/2.7 - AWS & Government.md",
     "2 - source materials/aws/CLF-C02/00 - Introduction to Cloud - CLF-C02.md",
     "1 - rough notes/Books/The richest man in Babylon.md",
     "1 - rough notes/Scrimba - React.md",
-    "1 - rough notes/The richest man in Babylon.md",
-    "1 - rough notes/Me.md",
-    "4 - indexes/Google Cloud.md",
-    "3 - tags/Digital Leader.md",
-    "4 - indexes/Cloud Computing.md",
-    "2 - source materials/Javascript/JavaScript - Arrays and Loops.md",
-    "3 - tags/Arrays.md",
-    "4 - indexes/LeetCode.md",
-    "4 - indexes/Indexes.md",
-    "1 - rough notes/Pre-requisite for Leetcode.md",
-    "1 - rough notes/Module 9 -.md",
-    "1 - rough notes/Module 7 -.md",
-    "1 - rough notes/Module 8 -.md",
-    "1 - rough notes/Module 6 -.md",
-    "1 - rough notes/Module 5 -.md",
-    "1 - rough notes/Module 4 -.md",
-    "1 - rough notes/Module 3  -.md",
     "2 - source materials/Google Cloud/Digital Leader",
     "2 - source materials/Google Cloud",
     "4 - indexes/Untitled",
@@ -182,7 +184,6 @@
     "5 - templates",
     "4 - indexes",
     "3 - tags",
-    "2 - source materials/youtube",
-    "2 - source materials/etc"
+    "2 - source materials/youtube"
   ]
 }
